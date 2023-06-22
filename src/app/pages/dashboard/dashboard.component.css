@@ -1,0 +1,16 @@
+
+.page-style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: pink;
+    height: 100vh;
+}
+
+.header-style {
+    height: 100px;
+    width: 100%;
+    top: 0;
+    background-color: green;
+    position: fixed;
+}
